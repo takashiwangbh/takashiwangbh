@@ -1,4 +1,4 @@
 # 👋 Hi there, I'm Binghao Wang!
 
-I'm a graduate student at the **University of Aizu**, Japan. Passionate about **AI, deep learning, Unity, and game development**  
+I'm a phd candidate at the **University of Hokkaido University**, Japan. Passionate about **NLP, Embodied AI, and Unity**  
 
